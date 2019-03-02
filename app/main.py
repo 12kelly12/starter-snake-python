@@ -279,10 +279,10 @@ def start():
     H, W = data["board"]["height"], data["board"]["height"]
     
     M = [[0]*H for w in range(W)]
-<<<<<<< HEAD
+
     print(M)
 =======
->>>>>>> master
+
     
     
     global state
