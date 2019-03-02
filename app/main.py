@@ -7,10 +7,9 @@ import time
 from api import ping_response, start_response, move_response, end_response
 
 from Queue import Queue
-<<<<<<< HEAD
+
 =======
 import numpy as np
->>>>>>> master
 
 """
 class Queue:
