@@ -281,10 +281,7 @@ def start():
     M = [[0]*H for w in range(W)]
 
     print(M)
-=======
-
-    
-    
+        
     global state
     global snakesizeinit
     snakesizeinit = len(data["you"]["body"])
